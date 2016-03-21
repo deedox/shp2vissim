@@ -1,0 +1,1 @@
+this is a python project. It is a QGIS python plugin, which can be used by copy the code file to QGIS python pulgin directory. With it the user can create vissim simulation road network file from a WGS84 ESRI shp file. Vissim4.5 and Qgis1.7 on XP system has been tested.
